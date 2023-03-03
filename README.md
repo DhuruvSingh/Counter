@@ -1,1 +1,3 @@
 # Counter
+
+Starting Counter app
