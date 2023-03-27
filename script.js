@@ -6,7 +6,6 @@ const increment = () => {
     value = value + 1;
     countValue.innerText = value;
 };
-xf
 
 const decrement = () => {
     let value = parseInt(countValue.innerText);
